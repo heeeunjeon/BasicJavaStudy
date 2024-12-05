@@ -1,4 +1,7 @@
 package scanner.ex;
+
+import java.util.Scanner;
+
 /*
     문제 - 상품 가격 계산
     사용자로부터 상품의 가격(`price` )과 수량(`quantity` )을 입력받고, 총 비용을 출력하는 프로그램을 작성하세요.
